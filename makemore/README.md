@@ -1,7 +1,7 @@
 # makemore
 
 Key topics covered:
-1. Bigram
+1. Bigram (makemore-bigram.ipynb)
 2. MLP
 3. CNN
 4. RNN
